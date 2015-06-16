@@ -7,13 +7,13 @@ html, body
 	width:324px;
 	background: #f8f8f8;
 	height: calc(100% - 200px);
-	overflow: auto;
 }
 .panel ul{
 	margin: 0px;
 	padding: 0px;
 	overflow: auto;
-	height: 100%;
+	height: calc(100% - 90px);
+	margin-top: 20px;
 }
 
 .panel ul li{
