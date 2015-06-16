@@ -1,0 +1,29 @@
+{
+  "name": "directory-react-nodejs",
+  "description": "React Node.js sample app",
+  "version": "0.0.1",
+  "dependencies": {
+    "ampersand-app": "^1.0.0",
+    "ampersand-dom": "^1.2.1",
+    "ampersand-form-view": "^3.1.1",
+    "ampersand-input-view": "^4.0.5",
+    "ampersand-model": "^5.0.3",
+    "ampersand-rest-collection": "^4.0.0",
+    "ampersand-router": "^3.0.1",
+    "ampersand-view": "^7.0.1",
+    "ampersand-view-switcher": "^2.0.0",
+    "express": "^4.6.1",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-react": "^0.12.2",
+    "jquery": "^2.1.4",
+    "lodash": "^3.6.0",
+    "react": "^0.13.3",
+    "react-hot-loader": "^1.2.7"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "react": "^0.13.3"
+  }
+}
